@@ -1,6 +1,5 @@
 object_type: global_settings
 overrides:
-    "xmla.auth.token.enabled": "true"
-    "xmla.discover.properties.daxdialect": "tabular1600"
+    "catalog.deployment.restriction.enabled": true
     
    
